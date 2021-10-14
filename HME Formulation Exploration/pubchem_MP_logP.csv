@@ -1,0 +1,469 @@
+,Molecule,pubChem,MP,LogP
+0,acetaminophen,"[{'StringWithMarkup': [{'String': '336 to 342 °F (NTP, 1992)'}]}, {'Number': [0.91]}]","{'StringWithMarkup': [{'String': '336 to 342 °F (NTP, 1992)'}]}",{'Number': [0.91]}
+1,methamphetamine,"[nan, nan]",,
+2,acyclovir,"[{'Number': [255], 'Unit': '°C'}, {'Number': [-1.76]}]","{'Number': [255], 'Unit': '°C'}",{'Number': [-1.76]}
+3,vilazodone,"[{'StringWithMarkup': [{'String': 'MP: 227-279 °C /Vilazodone hydrochloride/', 'Markup': [{'Start': 16, 'Length': 24, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/Vilazodone%20hydrochloride', 'Type': 'PubChem Internal Link', 'Extra': 'CID-6918313'}]}]}, {'StringWithMarkup': [{'String': 'log Kow = 3.59 (est)'}]}]","{'StringWithMarkup': [{'String': 'MP: 227-279 °C /Vilazodone hydrochloride/', 'Markup': [{'Start': 16, 'Length': 24, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/Vilazodone%20hydrochloride', 'Type': 'PubChem Internal Link', 'Extra': 'CID-6918313'}]}]}",{'StringWithMarkup': [{'String': 'log Kow = 3.59 (est)'}]}
+4,mycophenolate,"[{'Number': [141], 'Unit': '°C'}, {'Number': [2.8]}]","{'Number': [141], 'Unit': '°C'}",{'Number': [2.8]}
+5,valganciclovir,"[nan, nan]",,
+6,methenamine,"[{'StringWithMarkup': [{'String': '536 °F (sublimes) (NTP, 1992)'}]}, {'StringWithMarkup': [{'String': 'log Kow = -2.18 at pH 7-9, 20 °C'}]}]","{'StringWithMarkup': [{'String': '536 °F (sublimes) (NTP, 1992)'}]}","{'StringWithMarkup': [{'String': 'log Kow = -2.18 at pH 7-9, 20 °C'}]}"
+7,pyrimethamine,"[{'StringWithMarkup': [{'String': '451 to 453 °F (capillary) (NTP, 1992)'}]}, {'Number': [2.69]}]","{'StringWithMarkup': [{'String': '451 to 453 °F (capillary) (NTP, 1992)'}]}",{'Number': [2.69]}
+8,triazolam,"[nan, nan]",,
+9,darifenacin,"[nan, nan]",,
+10,tramadol,"[nan, nan]",,
+11,dextroamphetamine,"[nan, nan]",,
+12,linagliptin,"[{'StringWithMarkup': [{'String': '190-196'}]}, {'StringWithMarkup': [{'String': 'log Kow = 2.85 (est)'}]}]",{'StringWithMarkup': [{'String': '190-196'}]},{'StringWithMarkup': [{'String': 'log Kow = 2.85 (est)'}]}
+13,enzalutamide,"[nan, nan]",,
+14,anastrozole,"[{'StringWithMarkup': [{'String': '81-82 °C'}]}, {'Number': [1.58]}]",{'StringWithMarkup': [{'String': '81-82 °C'}]},{'Number': [1.58]}
+15,mirabegron,"[nan, nan]",,
+16,tranylcypromine,"[{'StringWithMarkup': [{'String': 'MP: 164-166 °C /Hydrochloride/'}]}, {'StringWithMarkup': [{'String': '1.58 (LogP)'}]}]",{'StringWithMarkup': [{'String': 'MP: 164-166 °C /Hydrochloride/'}]},{'StringWithMarkup': [{'String': '1.58 (LogP)'}]}
+17,fostamatinib,"[nan, nan]",,
+18,ciprofloxacin,"[{'StringWithMarkup': [{'String': '255-257 °C'}]}, {'Number': [0.28]}]",{'StringWithMarkup': [{'String': '255-257 °C'}]},{'Number': [0.28]}
+19,meperidine,"[nan, nan]",,
+20,erdafitinib,"[nan, nan]",,
+21,dapagliflozin,"[{'Number': [65]}, {'Number': [2.7]}]",{'Number': [65]},{'Number': [2.7]}
+22,sapropterin,"[{'StringWithMarkup': [{'String': '250-255 °C (hydrochloride salt)'}]}, {'Number': [-1.7]}]",{'StringWithMarkup': [{'String': '250-255 °C (hydrochloride salt)'}]},{'Number': [-1.7]}
+23,hydrochlorothiazide,"[{'StringWithMarkup': [{'String': '523 to 527 °F (NTP, 1992)'}]}, {'Number': [-0.07]}]","{'StringWithMarkup': [{'String': '523 to 527 °F (NTP, 1992)'}]}",{'Number': [-0.07]}
+24,moxifloxacin,"[{'StringWithMarkup': [{'String': '238-242 °C'}]}, {'Number': [2.9]}]",{'StringWithMarkup': [{'String': '238-242 °C'}]},{'Number': [2.9]}
+25,adefovir,"[{'StringWithMarkup': [{'String': '>250 °C'}]}, {'StringWithMarkup': [{'String': 'log Kow = -2.28 (est)'}]}]",{'StringWithMarkup': [{'String': '>250 °C'}]},{'StringWithMarkup': [{'String': 'log Kow = -2.28 (est)'}]}
+26,doravirine,"[nan, nan]",,
+27,tinidazole,"[{'StringWithMarkup': [{'String': '127-128 °C'}]}, {'Number': [-0.35]}]",{'StringWithMarkup': [{'String': '127-128 °C'}]},{'Number': [-0.35]}
+28,chlorzoxazone,"[{'StringWithMarkup': [{'String': '191-191.5'}]}, {'Number': [1.6]}]",{'StringWithMarkup': [{'String': '191-191.5'}]},{'Number': [1.6]}
+29,timolol,"[{'StringWithMarkup': [{'String': '202-203'}]}, {'Number': [1.8]}]",{'StringWithMarkup': [{'String': '202-203'}]},{'Number': [1.8]}
+30,diphenhydramine,"[{'StringWithMarkup': [{'String': '161-162'}]}, {'Number': [3.27]}]",{'StringWithMarkup': [{'String': '161-162'}]},{'Number': [3.27]}
+31,fosinopril,"[{'StringWithMarkup': [{'String': '149-153°C'}]}, {'StringWithMarkup': [{'String': '6.3'}]}]",{'StringWithMarkup': [{'String': '149-153°C'}]},{'StringWithMarkup': [{'String': '6.3'}]}
+32,sulfasalazine,"[{'StringWithMarkup': [{'String': '464 to 473 °F (decomposes) (NTP, 1992)'}]}, {'Number': [2.5]}]","{'StringWithMarkup': [{'String': '464 to 473 °F (decomposes) (NTP, 1992)'}]}",{'Number': [2.5]}
+33,phenobarbital,"[nan, nan]",,
+34,enalapril,"[{'StringWithMarkup': [{'String': '143-144.5'}]}, {'Number': [0.07]}]",{'StringWithMarkup': [{'String': '143-144.5'}]},{'Number': [0.07]}
+35,apixaban,"[{'Number': [326.53]}, {'Number': [2.71]}]",{'Number': [326.53]},{'Number': [2.71]}
+36,escitalopram,"[{'StringWithMarkup': [{'String': '147-152C'}]}, {'Number': [1.34]}]",{'StringWithMarkup': [{'String': '147-152C'}]},{'Number': [1.34]}
+37,capmatinib,"[nan, nan]",,
+38,etravirine,"[nan, nan]",,
+39,eletriptan,"[nan, nan]",,
+40,eluxadoline,"[nan, nan]",,
+41,melatonin,"[{'Number': [117], 'Unit': '°C'}, {'Number': [1.6]}]","{'Number': [117], 'Unit': '°C'}",{'Number': [1.6]}
+42,elagolix,"[nan, nan]",,
+43,osilodrostat,"[nan, nan]",,
+44,tegaserod,"[{'Number': [155], 'Unit': '°C'}, {'Number': [2.6]}]","{'Number': [155], 'Unit': '°C'}",{'Number': [2.6]}
+45,valacyclovir,"[{'StringWithMarkup': [{'String': '170-172'}]}, {'Number': [-0.3]}]",{'StringWithMarkup': [{'String': '170-172'}]},{'Number': [-0.3]}
+46,busulfan,"[{'StringWithMarkup': [{'String': '237 to 244 °F (NTP, 1992)'}]}, {'Number': [-0.52]}]","{'StringWithMarkup': [{'String': '237 to 244 °F (NTP, 1992)'}]}",{'Number': [-0.52]}
+47,lofexidine,"[{'StringWithMarkup': [{'String': '221-223'}]}, {'Number': [5.37]}]",{'StringWithMarkup': [{'String': '221-223'}]},{'Number': [5.37]}
+48,albendazole,"[{'StringWithMarkup': [{'String': '208-210'}]}, {'Number': [2.7]}]",{'StringWithMarkup': [{'String': '208-210'}]},{'Number': [2.7]}
+49,atropine,"[{'Number': [118.5], 'Unit': '°C'}, {'Number': [1.83]}]","{'Number': [118.5], 'Unit': '°C'}",{'Number': [1.83]}
+50,disulfiram,"[{'StringWithMarkup': [{'String': '158 °F (NTP, 1992)'}]}, {'Number': [3.88]}]","{'StringWithMarkup': [{'String': '158 °F (NTP, 1992)'}]}",{'Number': [3.88]}
+51,abemaciclib,"[nan, nan]",,
+52,iloperidone,"[{'StringWithMarkup': [{'String': '118-120 °C'}]}, {'StringWithMarkup': [{'String': 'log Kow = 4.43 (est)'}]}]",{'StringWithMarkup': [{'String': '118-120 °C'}]},{'StringWithMarkup': [{'String': 'log Kow = 4.43 (est)'}]}
+53,gefitinib,"[nan, nan]",,
+54,sotalol,"[{'Number': [206.75]}, {'StringWithMarkup': [{'String': '0.24 (LogP)'}]}]",{'Number': [206.75]},{'StringWithMarkup': [{'String': '0.24 (LogP)'}]}
+55,telmisartan,"[{'StringWithMarkup': [{'String': '261-263 °C'}]}, {'Number': [7.7]}]",{'StringWithMarkup': [{'String': '261-263 °C'}]},{'Number': [7.7]}
+56,levofloxacin,"[{'StringWithMarkup': [{'String': '225-227C'}]}, {'Number': [2.1]}]",{'StringWithMarkup': [{'String': '225-227C'}]},{'Number': [2.1]}
+57,repaglinide,"[{'StringWithMarkup': [{'String': '130-131 °C'}]}, {'Number': [5.9]}]",{'StringWithMarkup': [{'String': '130-131 °C'}]},{'Number': [5.9]}
+58,rucaparib,"[nan, nan]",,
+59,mirtazapine,"[{'StringWithMarkup': [{'String': '114-116 °C'}]}, {'Number': [2.9]}]",{'StringWithMarkup': [{'String': '114-116 °C'}]},{'Number': [2.9]}
+60,ospemifene,"[nan, nan]",,
+61,lorazepam,"[nan, nan]",,
+62,rolapitant,"[nan, nan]",,
+63,betaxolol,"[{'StringWithMarkup': [{'String': '70-72 °C'}]}, {'Number': [2.81]}]",{'StringWithMarkup': [{'String': '70-72 °C'}]},{'Number': [2.81]}
+64,dimenhydrinate,"[{'StringWithMarkup': [{'String': '216 to 225 °F (NTP, 1992)'}]}, {'Number': [-0.39]}]","{'StringWithMarkup': [{'String': '216 to 225 °F (NTP, 1992)'}]}",{'Number': [-0.39]}
+65,ketorolac,"[{'StringWithMarkup': [{'String': '162-165 °C (tromethamine salt)', 'Markup': [{'Start': 12, 'Length': 12, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/tromethamine', 'Type': 'PubChem Internal Link', 'Extra': 'CID-6503'}]}]}, {'Number': [2.1]}]","{'StringWithMarkup': [{'String': '162-165 °C (tromethamine salt)', 'Markup': [{'Start': 12, 'Length': 12, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/tromethamine', 'Type': 'PubChem Internal Link', 'Extra': 'CID-6503'}]}]}",{'Number': [2.1]}
+66,propranolol,"[{'Number': [96], 'Unit': '°C'}, {'Number': [3.48]}]","{'Number': [96], 'Unit': '°C'}",{'Number': [3.48]}
+67,solriamfetol,"[nan, nan]",,
+68,prucalopride,"[{'StringWithMarkup': [{'String': '>196 ºC'}]}, {'Number': [2.56]}]",{'StringWithMarkup': [{'String': '>196 ºC'}]},{'Number': [2.56]}
+69,verapamil,"[{'StringWithMarkup': [{'String': '<25°C'}]}, {'StringWithMarkup': [{'String': '3.79 (LogP)'}]}]",{'StringWithMarkup': [{'String': '<25°C'}]},{'StringWithMarkup': [{'String': '3.79 (LogP)'}]}
+70,glyburide,"[{'Number': [169], 'Unit': '°C'}, {'Number': [3.754]}]","{'Number': [169], 'Unit': '°C'}",{'Number': [3.754]}
+71,prazosin,"[{'StringWithMarkup': [{'String': '277-280'}]}, {'Number': [1.3]}]",{'StringWithMarkup': [{'String': '277-280'}]},{'Number': [1.3]}
+72,phenytoin,"[{'StringWithMarkup': [{'String': '563 to 568 °F (NTP, 1992)'}]}, {'Number': [2.47]}]","{'StringWithMarkup': [{'String': '563 to 568 °F (NTP, 1992)'}]}",{'Number': [2.47]}
+73,protriptyline,"[{'StringWithMarkup': [{'String': '169-171 °C (Protriptyline HCl)', 'Markup': [{'Start': 12, 'Length': 17, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/Protriptyline%20HCl', 'Type': 'PubChem Internal Link', 'Extra': 'CID-6603149'}]}]}, {'Number': [4.7]}]","{'StringWithMarkup': [{'String': '169-171 °C (Protriptyline HCl)', 'Markup': [{'Start': 12, 'Length': 17, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/Protriptyline%20HCl', 'Type': 'PubChem Internal Link', 'Extra': 'CID-6603149'}]}]}",{'Number': [4.7]}
+74,flavoxate,"[{'StringWithMarkup': [{'String': '232-234'}]}, {'Number': [4.4]}]",{'StringWithMarkup': [{'String': '232-234'}]},{'Number': [4.4]}
+75,dronedarone,"[{'StringWithMarkup': [{'String': '137-145'}]}, {'Number': [4.63]}]",{'StringWithMarkup': [{'String': '137-145'}]},{'Number': [4.63]}
+76,safinamide,"[nan, nan]",,
+77,diflunisal,"[{'StringWithMarkup': [{'String': '210-211'}]}, {'Number': [4.44]}]",{'StringWithMarkup': [{'String': '210-211'}]},{'Number': [4.44]}
+78,miconazole,"[{'Number': [170]}, {'StringWithMarkup': [{'String': '6.1'}]}]",{'Number': [170]},{'StringWithMarkup': [{'String': '6.1'}]}
+79,palbociclib,"[{'StringWithMarkup': [{'String': '263-266 ºC'}]}, {'Number': [0.99]}]",{'StringWithMarkup': [{'String': '263-266 ºC'}]},{'Number': [0.99]}
+80,rosuvastatin,"[nan, nan]",,
+81,clonidine,"[{'Number': [130]}, {'Number': [1.59]}]",{'Number': [130]},{'Number': [1.59]}
+82,pyrazinamide,"[{'StringWithMarkup': [{'String': '376 to 379 °F (NTP, 1992)'}]}, {'Number': [-0.6]}]","{'StringWithMarkup': [{'String': '376 to 379 °F (NTP, 1992)'}]}",{'Number': [-0.6]}
+83,phentermine,"[nan, nan]",,
+84,sumatriptan,"[{'StringWithMarkup': [{'String': '169-170'}]}, {'Number': [0.93]}]",{'StringWithMarkup': [{'String': '169-170'}]},{'Number': [0.93]}
+85,osimertinib,"[nan, nan]",,
+86,fluvoxamine,"[{'StringWithMarkup': [{'String': '120-121.5 °C'}]}, {'Number': [3.2]}]",{'StringWithMarkup': [{'String': '120-121.5 °C'}]},{'Number': [3.2]}
+87,vemurafenib,"[{'StringWithMarkup': [{'String': '272°C'}]}, {'Number': [5.1]}]",{'StringWithMarkup': [{'String': '272°C'}]},{'Number': [5.1]}
+88,armodafinil,"[nan, nan]",,
+89,propylthiouracil,"[{'StringWithMarkup': [{'String': '426 to 430 °F (NTP, 1992)'}]}, {'Number': [0.4]}]","{'StringWithMarkup': [{'String': '426 to 430 °F (NTP, 1992)'}]}",{'Number': [0.4]}
+90,saxagliptin,"[nan, nan]",,
+91,fluphenazine,"[{'StringWithMarkup': [{'String': '224-226 (Salt)'}]}, {'Number': [4.36]}]",{'StringWithMarkup': [{'String': '224-226 (Salt)'}]},{'Number': [4.36]}
+92,rivaroxaban,"[nan, nan]",,
+93,ethotoin,"[{'Number': [94], 'Unit': '°C'}, {'Number': [1.05]}]","{'Number': [94], 'Unit': '°C'}",{'Number': [1.05]}
+94,apalutamide,"[nan, nan]",,
+95,levocetirizine,"[nan, nan]",,
+96,trimethoprim,"[{'StringWithMarkup': [{'String': '390 to 397 °F (NTP, 1992)'}]}, {'Number': [0.91]}]","{'StringWithMarkup': [{'String': '390 to 397 °F (NTP, 1992)'}]}",{'Number': [0.91]}
+97,empagliflozin,"[nan, nan]",,
+98,sildenafil,"[{'StringWithMarkup': [{'String': '189-190 °C'}]}, {'Number': [1.9]}]",{'StringWithMarkup': [{'String': '189-190 °C'}]},{'Number': [1.9]}
+99,siponimod,"[{'StringWithMarkup': [{'String': '111-112'}]}, {'Number': [6.77]}]",{'StringWithMarkup': [{'String': '111-112'}]},{'Number': [6.77]}
+100,chlorthalidone,"[{'Number': [239], 'Unit': '°C'}, {'Number': [0.85]}]","{'Number': [239], 'Unit': '°C'}",{'Number': [0.85]}
+101,trospium,"[nan, nan]",,
+102,thioridazine,"[{'Number': [73], 'Unit': '°C'}, {'Number': [5.9]}]","{'Number': [73], 'Unit': '°C'}",{'Number': [5.9]}
+103,amifampridine,"[nan, nan]",,
+104,febuxostat,"[nan, nan]",,
+105,memantine,"[{'Number': [153]}, {'Number': [3.28]}]",{'Number': [153]},{'Number': [3.28]}
+106,benazepril,"[{'Number': [148.5]}, {'StringWithMarkup': [{'String': 'log Kow = 3.50 (est)'}]}]",{'Number': [148.5]},{'StringWithMarkup': [{'String': 'log Kow = 3.50 (est)'}]}
+107,zidovudine,"[{'StringWithMarkup': [{'String': '223 to 234 °F (NTP, 1992)'}]}, {'Number': [0.05]}]","{'StringWithMarkup': [{'String': '223 to 234 °F (NTP, 1992)'}]}",{'Number': [0.05]}
+108,upadacitinib,"[nan, nan]",,
+109,dicyclomine,"[{'StringWithMarkup': [{'String': '165-166'}]}, {'StringWithMarkup': [{'String': '5.5'}]}]",{'StringWithMarkup': [{'String': '165-166'}]},{'StringWithMarkup': [{'String': '5.5'}]}
+110,fenofibric,"[nan, nan]",,
+111,tamoxifen,"[{'Number': [97], 'Unit': '°C'}, {'StringWithMarkup': [{'String': 'log Kow = 6.30 (est)'}]}]","{'Number': [97], 'Unit': '°C'}",{'StringWithMarkup': [{'String': 'log Kow = 6.30 (est)'}]}
+112,amitriptyline,"[nan, nan]",,
+113,pitavastatin,"[nan, nan]",,
+114,chlordiazepoxide,"[nan, nan]",,
+115,leflunomide,"[{'StringWithMarkup': [{'String': '165-166 °C'}]}, {'Number': [2.8]}]",{'StringWithMarkup': [{'String': '165-166 °C'}]},{'Number': [2.8]}
+116,tizanidine,"[{'Number': [280]}, {'Number': [1.72]}]",{'Number': [280]},{'Number': [1.72]}
+117,metronidazole,"[{'StringWithMarkup': [{'String': '316 to 320 °F (NTP, 1992)'}]}, {'Number': [-0.02]}]","{'StringWithMarkup': [{'String': '316 to 320 °F (NTP, 1992)'}]}",{'Number': [-0.02]}
+118,nitazoxanide,"[{'Number': [202], 'Unit': '°C'}, {'Number': [1.63]}]","{'Number': [202], 'Unit': '°C'}",{'Number': [1.63]}
+119,primaquine,"[{'StringWithMarkup': [{'String': '< 25 °C'}]}, {'Number': [2.1]}]",{'StringWithMarkup': [{'String': '< 25 °C'}]},{'Number': [2.1]}
+120,famotidine,"[{'StringWithMarkup': [{'String': '163.5 °C'}]}, {'StringWithMarkup': [{'String': '-0.64 (LogP)'}]}]",{'StringWithMarkup': [{'String': '163.5 °C'}]},{'StringWithMarkup': [{'String': '-0.64 (LogP)'}]}
+121,rilpivirine,"[{'StringWithMarkup': [{'String': '241-243°C'}]}, {'Number': [4.86]}]",{'StringWithMarkup': [{'String': '241-243°C'}]},{'Number': [4.86]}
+122,venetoclax,"[nan, nan]",,
+123,fesoterodine,"[nan, nan]",,
+124,decitabine,"[{'StringWithMarkup': [{'String': '193-196'}]}, {'StringWithMarkup': [{'String': '-1.89 (LogP)'}]}]",{'StringWithMarkup': [{'String': '193-196'}]},{'StringWithMarkup': [{'String': '-1.89 (LogP)'}]}
+125,ivosidenib,"[nan, nan]",,
+126,pregabalin,"[nan, nan]",,
+127,trihexyphenidyl,"[{'Number': [258.5], 'Unit': '°C'}, {'Number': [4.49]}]","{'Number': [258.5], 'Unit': '°C'}",{'Number': [4.49]}
+128,dasatinib,"[{'StringWithMarkup': [{'String': '280-286 °C'}]}, {'Number': [1.8]}]",{'StringWithMarkup': [{'String': '280-286 °C'}]},{'Number': [1.8]}
+129,amlodipine,"[{'StringWithMarkup': [{'String': '199-201'}]}, {'Number': [3]}]",{'StringWithMarkup': [{'String': '199-201'}]},{'Number': [3]}
+130,rizatriptan,"[{'StringWithMarkup': [{'String': '178-180 °C'}]}, {'Number': [1.4]}]",{'StringWithMarkup': [{'String': '178-180 °C'}]},{'Number': [1.4]}
+131,alfuzosin,"[nan, nan]",,
+132,acetazolamide,"[{'StringWithMarkup': [{'String': '496 to 498 °F (effervescence) (NTP, 1992)'}]}, {'Number': [-0.26]}]","{'StringWithMarkup': [{'String': '496 to 498 °F (effervescence) (NTP, 1992)'}]}",{'Number': [-0.26]}
+133,olmesartan,"[{'Number': [177.6], 'Unit': 'ºC'}, {'Number': [0.73]}]","{'Number': [177.6], 'Unit': 'ºC'}",{'Number': [0.73]}
+134,mecamylamine,"[{'Number': [249], 'Unit': 'with decomposition'}, {'Number': [2.7]}]","{'Number': [249], 'Unit': 'with decomposition'}",{'Number': [2.7]}
+135,fluconazole,"[{'StringWithMarkup': [{'String': '138-140 °C'}]}, {'Number': [0.5]}]",{'StringWithMarkup': [{'String': '138-140 °C'}]},{'Number': [0.5]}
+136,entacapone,"[{'StringWithMarkup': [{'String': '162-163 °C'}]}, {'Number': [2.8]}]",{'StringWithMarkup': [{'String': '162-163 °C'}]},{'Number': [2.8]}
+137,sertraline,"[nan, nan]",,
+138,trazodone,"[{'StringWithMarkup': [{'String': '231-234'}]}, {'Number': [2.68]}]",{'StringWithMarkup': [{'String': '231-234'}]},{'Number': [2.68]}
+139,deutetrabenazine,"[nan, nan]",,
+140,fenofibrate,"[{'StringWithMarkup': [{'String': '79-82'}]}, {'Number': [5.2]}]",{'StringWithMarkup': [{'String': '79-82'}]},{'Number': [5.2]}
+141,probenecid,"[{'StringWithMarkup': [{'String': '381 to 385 °F (NTP, 1992)'}]}, {'Number': [3.21]}]","{'StringWithMarkup': [{'String': '381 to 385 °F (NTP, 1992)'}]}",{'Number': [3.21]}
+142,levetiracetam,"[{'StringWithMarkup': [{'String': '115-119C'}]}, {'Number': [-0.6]}]",{'StringWithMarkup': [{'String': '115-119C'}]},{'Number': [-0.6]}
+143,metoclopramide,"[{'StringWithMarkup': [{'String': '171-173'}]}, {'Number': [2.667]}]",{'StringWithMarkup': [{'String': '171-173'}]},{'Number': [2.667]}
+144,baclofen,"[{'StringWithMarkup': [{'String': '372 to 376 °F (NTP, 1992)'}]}, {'Number': [1.3]}]","{'StringWithMarkup': [{'String': '372 to 376 °F (NTP, 1992)'}]}",{'Number': [1.3]}
+145,letermovir,"[nan, nan]",,
+146,trifluoperazine,"[{'StringWithMarkup': [{'String': 'Cream-colored, fine powder from absolute alcohol; MP: 242-243 °C; pH of 5% aq soln= 2.2, Hygroscopic /Dihydrochloride/'}]}, {'Number': [5.03]}]","{'StringWithMarkup': [{'String': 'Cream-colored, fine powder from absolute alcohol; MP: 242-243 °C; pH of 5% aq soln= 2.2, Hygroscopic /Dihydrochloride/'}]}",{'Number': [5.03]}
+147,felodipine,"[{'Number': [145], 'Unit': '°C'}, {'Number': [3.86]}]","{'Number': [145], 'Unit': '°C'}",{'Number': [3.86]}
+148,glycopyrrolate,"[nan, nan]",,
+149,amiodarone,"[{'Number': [156]}, {'Number': [7.2]}]",{'Number': [156]},{'Number': [7.2]}
+150,bempedoic,"[nan, nan]",,
+151,ertugliflozin,"[nan, nan]",,
+152,tolcapone,"[nan, nan]",,
+153,tofacitinib,"[{'StringWithMarkup': [{'String': 'White crystalline solid. MP: 199-206 °C /Tofacitinib monocitrate/', 'Markup': [{'Start': 41, 'Length': 11, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/Tofacitinib', 'Type': 'PubChem Internal Link', 'Extra': 'CID-9926791'}]}]}, {'Number': [1.808]}]","{'StringWithMarkup': [{'String': 'White crystalline solid. MP: 199-206 °C /Tofacitinib monocitrate/', 'Markup': [{'Start': 41, 'Length': 11, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/Tofacitinib', 'Type': 'PubChem Internal Link', 'Extra': 'CID-9926791'}]}]}",{'Number': [1.808]}
+154,lurasidone,"[nan, nan]",,
+155,nifedipine,"[{'StringWithMarkup': [{'String': '342 to 345 °F (NTP, 1992)'}]}, {'Number': [2.2]}]","{'StringWithMarkup': [{'String': '342 to 345 °F (NTP, 1992)'}]}",{'Number': [2.2]}
+156,amantadine,"[{'StringWithMarkup': [{'String': '180-192'}]}, {'Number': [2.44]}]",{'StringWithMarkup': [{'String': '180-192'}]},{'Number': [2.44]}
+157,carbamazepine,"[{'StringWithMarkup': [{'String': '189-192'}]}, {'Number': [2.77]}]",{'StringWithMarkup': [{'String': '189-192'}]},{'Number': [2.77]}
+158,azilsartan,"[{'StringWithMarkup': [{'String': '212-214 °C'}]}, {'StringWithMarkup': [{'String': 'log Kow = 6.44 (est)'}]}]",{'StringWithMarkup': [{'String': '212-214 °C'}]},{'StringWithMarkup': [{'String': 'log Kow = 6.44 (est)'}]}
+159,citalopram,"[{'StringWithMarkup': [{'String': '182-188'}]}, {'Number': [3.76]}]",{'StringWithMarkup': [{'String': '182-188'}]},{'Number': [3.76]}
+160,doxazosin,"[{'StringWithMarkup': [{'String': '275-277'}]}, {'Number': [2.1]}]",{'StringWithMarkup': [{'String': '275-277'}]},{'Number': [2.1]}
+161,acamprosate,"[nan, nan]",,
+162,dexmethylphenidate,"[nan, nan]",,
+163,cinacalcet,"[nan, nan]",,
+164,meloxicam,"[{'Number': [256]}, {'Number': [0.1]}]",{'Number': [256]},{'Number': [0.1]}
+165,montelukast,"[{'Number': [275.9], 'Unit': 'F'}, {'Number': [7.9]}]","{'Number': [275.9], 'Unit': 'F'}",{'Number': [7.9]}
+166,pseudoephedrine,"[nan, nan]",,
+167,bictegravir,"[nan, nan]",,
+168,valsartan,"[{'StringWithMarkup': [{'String': '116-117 °C'}]}, {'Number': [1.499]}]",{'StringWithMarkup': [{'String': '116-117 °C'}]},{'Number': [1.499]}
+169,methotrexate,"[{'StringWithMarkup': [{'String': '365 to 399 °F (decomposes) (NTP, 1992)'}]}, {'Number': [-1.85]}]","{'StringWithMarkup': [{'String': '365 to 399 °F (decomposes) (NTP, 1992)'}]}",{'Number': [-1.85]}
+170,nebivolol,"[{'StringWithMarkup': [{'String': '223.0-228.0'}]}, {'Number': [4.183]}]",{'StringWithMarkup': [{'String': '223.0-228.0'}]},{'Number': [4.183]}
+171,aliskiren,"[{'StringWithMarkup': [{'String': '>95'}]}, {'Number': [2.45]}]",{'StringWithMarkup': [{'String': '>95'}]},{'Number': [2.45]}
+172,mercaptopurine,"[{'Number': [313], 'Unit': 'dec °C'}, {'Number': [0.01]}]","{'Number': [313], 'Unit': 'dec °C'}",{'Number': [0.01]}
+173,clomiphene,"[{'StringWithMarkup': [{'String': '116.5-118'}]}, {'Number': [7.2]}]",{'StringWithMarkup': [{'String': '116.5-118'}]},{'Number': [7.2]}
+174,primidone,"[{'StringWithMarkup': [{'String': '538 to 540 °F (NTP, 1992)'}]}, {'Number': [0.91]}]","{'StringWithMarkup': [{'String': '538 to 540 °F (NTP, 1992)'}]}",{'Number': [0.91]}
+175,bumetanide,"[{'StringWithMarkup': [{'String': '230-231'}]}, {'Number': [2.6]}]",{'StringWithMarkup': [{'String': '230-231'}]},{'Number': [2.6]}
+176,alogliptin,"[nan, nan]",,
+177,topiramate,"[{'StringWithMarkup': [{'String': '123-125 ºC'}]}, {'Number': [0.13]}]",{'StringWithMarkup': [{'String': '123-125 ºC'}]},{'Number': [0.13]}
+178,nefazodone,"[{'Number': [83.5], 'Unit': '°C'}, {'Number': [4.7]}]","{'Number': [83.5], 'Unit': '°C'}",{'Number': [4.7]}
+179,carglumic,"[nan, nan]",,
+180,bicalutamide,"[{'StringWithMarkup': [{'String': '191-193 °C'}]}, {'Number': [2.5]}]",{'StringWithMarkup': [{'String': '191-193 °C'}]},{'Number': [2.5]}
+181,teriflunomide,"[nan, nan]",,
+182,carisoprodol,"[nan, nan]",,
+183,tolvaptan,"[{'StringWithMarkup': [{'String': '225.9 °C'}]}, {'StringWithMarkup': [{'String': 'log Kow = 4.85 (est)'}]}]",{'StringWithMarkup': [{'String': '225.9 °C'}]},{'StringWithMarkup': [{'String': 'log Kow = 4.85 (est)'}]}
+184,ephedrine,"[{'Number': [34], 'Unit': '°C'}, {'Number': [1.13]}]","{'Number': [34], 'Unit': '°C'}",{'Number': [1.13]}
+185,atenolol,"[{'StringWithMarkup': [{'String': '158-160'}]}, {'Number': [0.16]}]",{'StringWithMarkup': [{'String': '158-160'}]},{'Number': [0.16]}
+186,tiagabine,"[nan, nan]",,
+187,fentanyl,"[nan, nan]",,
+188,donepezil,"[{'StringWithMarkup': [{'String': '223-227'}]}, {'Number': [4.7]}]",{'StringWithMarkup': [{'String': '223-227'}]},{'Number': [4.7]}
+189,rabeprazole,"[{'StringWithMarkup': [{'String': '99-100 °C (decomposes)'}]}, {'Number': [0.6]}]",{'StringWithMarkup': [{'String': '99-100 °C (decomposes)'}]},{'Number': [0.6]}
+190,phendimetrazine,"[nan, nan]",,
+191,pramipexole,"[{'StringWithMarkup': [{'String': '288-290'}]}, {'Number': [1.42]}]",{'StringWithMarkup': [{'String': '288-290'}]},{'Number': [1.42]}
+192,granisetron,"[{'Number': [219], 'Unit': '°C (HCl salt)'}, {'Number': [2.6]}]","{'Number': [219], 'Unit': '°C (HCl salt)'}",{'Number': [2.6]}
+193,cabozantinib,"[nan, nan]",,
+194,edoxaban,"[{'StringWithMarkup': [{'String': 'Crystals as monohydrate from ethanol + water. MP: 245-48 (decomposes) /Edoxaban tosylate/', 'Markup': [{'Start': 29, 'Length': 7, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/ethanol', 'Type': 'PubChem Internal Link', 'Extra': 'CID-702'}, {'Start': 39, 'Length': 5, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/water', 'Type': 'PubChem Internal Link', 'Extra': 'CID-962'}, {'Start': 71, 'Length': 17, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/Edoxaban%20tosylate', 'Type': 'PubChem Internal Link', 'Extra': 'CID-44610678'}]}]}, {'StringWithMarkup': [{'String': 'log Kow = 0.67 (est)'}]}]","{'StringWithMarkup': [{'String': 'Crystals as monohydrate from ethanol + water. MP: 245-48 (decomposes) /Edoxaban tosylate/', 'Markup': [{'Start': 29, 'Length': 7, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/ethanol', 'Type': 'PubChem Internal Link', 'Extra': 'CID-702'}, {'Start': 39, 'Length': 5, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/water', 'Type': 'PubChem Internal Link', 'Extra': 'CID-962'}, {'Start': 71, 'Length': 17, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/Edoxaban%20tosylate', 'Type': 'PubChem Internal Link', 'Extra': 'CID-44610678'}]}]}",{'StringWithMarkup': [{'String': 'log Kow = 0.67 (est)'}]}
+195,clopidogrel,"[{'Number': [158], 'Unit': '°C'}, {'StringWithMarkup': [{'String': 'log Kow = 3.8 (est)'}]}]","{'Number': [158], 'Unit': '°C'}",{'StringWithMarkup': [{'String': 'log Kow = 3.8 (est)'}]}
+196,bethanechol,"[nan, nan]",,
+197,capecitabine,"[{'StringWithMarkup': [{'String': '110-121 °C'}]}, {'Number': [0.4]}]",{'StringWithMarkup': [{'String': '110-121 °C'}]},{'Number': [0.4]}
+198,tadalafil,"[{'StringWithMarkup': [{'String': '301-302 °C'}]}, {'Number': [1.7]}]",{'StringWithMarkup': [{'String': '301-302 °C'}]},{'Number': [1.7]}
+199,varenicline,"[nan, nan]",,
+200,carvedilol,"[{'Number': [114.5], 'Unit': '°C'}, {'Number': [3.8]}]","{'Number': [114.5], 'Unit': '°C'}",{'Number': [3.8]}
+201,brigatinib,"[nan, nan]",,
+202,tolterodine,"[nan, nan]",,
+203,atovaquone,"[{'StringWithMarkup': [{'String': '216-219 °C'}]}, {'Number': [5.8]}]",{'StringWithMarkup': [{'String': '216-219 °C'}]},{'Number': [5.8]}
+204,chlorpheniramine,"[{'StringWithMarkup': [{'String': '266 to 275 °F (NTP, 1992)'}]}, {'Number': [3.38]}]","{'StringWithMarkup': [{'String': '266 to 275 °F (NTP, 1992)'}]}",{'Number': [3.38]}
+205,posaconazole,"[{'StringWithMarkup': [{'String': '170-172 °C'}]}, {'Number': [5.5]}]",{'StringWithMarkup': [{'String': '170-172 °C'}]},{'Number': [5.5]}
+206,tedizolid,"[nan, nan]",,
+207,clorazepate,"[nan, nan]",,
+208,desvenlafaxine,"[nan, nan]",,
+209,fluoxetine,"[{'Number': [193], 'Unit': '- 197 °C'}, {'Number': [4.05]}]","{'Number': [193], 'Unit': '- 197 °C'}",{'Number': [4.05]}
+210,nitroglycerin,"[{'StringWithMarkup': [{'String': '56 °F (NIOSH, 2016)'}]}, {'Number': [1.62]}]","{'StringWithMarkup': [{'String': '56 °F (NIOSH, 2016)'}]}",{'Number': [1.62]}
+211,propafenone,"[nan, nan]",,
+212,oxcarbazepine,"[{'StringWithMarkup': [{'String': '215.5 °C'}]}, {'Number': [1.5]}]",{'StringWithMarkup': [{'String': '215.5 °C'}]},{'Number': [1.5]}
+213,celecoxib,"[{'StringWithMarkup': [{'String': '157-159'}]}, {'Number': [3.53]}]",{'StringWithMarkup': [{'String': '157-159'}]},{'Number': [3.53]}
+214,raltegravir,"[nan, nan]",,
+215,chlorpromazine,"[{'StringWithMarkup': [{'String': '177-178'}]}, {'Number': [5.41]}]",{'StringWithMarkup': [{'String': '177-178'}]},{'Number': [5.41]}
+216,alprazolam,"[nan, nan]",,
+217,nitisinone,"[nan, nan]",,
+218,liothyronine,"[{'Number': [230], 'Unit': 'ºC'}, {'Number': [3]}]","{'Number': [230], 'Unit': 'ºC'}",{'Number': [3]}
+219,ropinirole,"[{'StringWithMarkup': [{'String': '243-250 °C'}]}, {'Number': [3.06]}]",{'StringWithMarkup': [{'String': '243-250 °C'}]},{'Number': [3.06]}
+220,zolmitriptan,"[{'Number': [136]}, {'Number': [1.792]}]",{'Number': [136]},{'Number': [1.792]}
+221,felbamate,"[{'Number': [151.5], 'Unit': '°C'}, {'Number': [0.3]}]","{'Number': [151.5], 'Unit': '°C'}",{'Number': [0.3]}
+222,methazolamide,"[{'Number': [213.5], 'Unit': '°C'}, {'Number': [0.13]}]","{'Number': [213.5], 'Unit': '°C'}",{'Number': [0.13]}
+223,brivaracetam,"[nan, nan]",,
+224,metoprolol,"[{'Number': [120], 'Unit': '°C'}, {'Number': [2.15]}]","{'Number': [120], 'Unit': '°C'}",{'Number': [2.15]}
+225,sorafenib,"[{'StringWithMarkup': [{'String': '205.6 °C'}]}, {'Number': [3.8]}]",{'StringWithMarkup': [{'String': '205.6 °C'}]},{'Number': [3.8]}
+226,nateglinide,"[nan, nan]",,
+227,macitentan,"[nan, nan]",,
+228,ambrisentan,"[nan, nan]",,
+229,bosutinib,"[nan, nan]",,
+230,vandetanib,"[nan, nan]",,
+231,sulindac,"[{'Number': [183], 'Unit': '°C'}, {'Number': [3.42]}]","{'Number': [183], 'Unit': '°C'}",{'Number': [3.42]}
+232,letrozole,"[{'StringWithMarkup': [{'String': '184-185 °C'}]}, {'Number': [2.5]}]",{'StringWithMarkup': [{'String': '184-185 °C'}]},{'Number': [2.5]}
+233,allopurinol,"[{'StringWithMarkup': [{'String': 'greater than 662 °F (NTP, 1992)'}]}, {'Number': [-1.8]}]","{'StringWithMarkup': [{'String': 'greater than 662 °F (NTP, 1992)'}]}",{'Number': [-1.8]}
+234,perampanel,"[nan, nan]",,
+235,milnacipran,"[nan, nan]",,
+236,dolutegravir,"[{'StringWithMarkup': [{'String': '190-193ºC'}]}, {'Number': [2.2]}]",{'StringWithMarkup': [{'String': '190-193ºC'}]},{'Number': [2.2]}
+237,captopril,"[{'StringWithMarkup': [{'String': '103-104'}]}, {'Number': [0.34]}]",{'StringWithMarkup': [{'String': '103-104'}]},{'Number': [0.34]}
+238,voriconazole,"[{'Number': [134], 'Unit': '°C'}, {'StringWithMarkup': [{'String': '1'}]}]","{'Number': [134], 'Unit': '°C'}",{'StringWithMarkup': [{'String': '1'}]}
+239,ketoconazole,"[{'StringWithMarkup': [{'String': '146.0 °C'}]}, {'StringWithMarkup': [{'String': '4.35 (LogP)'}]}]",{'StringWithMarkup': [{'String': '146.0 °C'}]},{'StringWithMarkup': [{'String': '4.35 (LogP)'}]}
+240,deferasirox,"[{'StringWithMarkup': [{'String': '116-117 °C'}]}, {'Number': [3.52]}]",{'StringWithMarkup': [{'String': '116-117 °C'}]},{'Number': [3.52]}
+241,eltrombopag,"[nan, nan]",,
+242,riluzole,"[{'Number': [119], 'Unit': '°C'}, {'Number': [2.3]}]","{'Number': [119], 'Unit': '°C'}",{'Number': [2.3]}
+243,quinapril,"[{'StringWithMarkup': [{'String': '120-130 °C'}]}, {'Number': [0.86]}]",{'StringWithMarkup': [{'String': '120-130 °C'}]},{'Number': [0.86]}
+244,atazanavir,"[nan, nan]",,
+245,ethambutol,"[{'StringWithMarkup': [{'String': '171.5-174.5'}]}, {'Number': [-0.3]}]",{'StringWithMarkup': [{'String': '171.5-174.5'}]},{'Number': [-0.3]}
+246,isosorbide,"[nan, nan]",,
+247,ondansetron,"[{'StringWithMarkup': [{'String': '231-232 °C'}]}, {'Number': [2.4]}]",{'StringWithMarkup': [{'String': '231-232 °C'}]},{'Number': [2.4]}
+248,selegiline,"[{'StringWithMarkup': [{'String': '141-142 °C'}]}, {'Number': [2.7]}]",{'StringWithMarkup': [{'String': '141-142 °C'}]},{'Number': [2.7]}
+249,dipyridamole,"[{'Number': [163], 'Unit': '°C'}, {'Number': [1.5]}]","{'Number': [163], 'Unit': '°C'}",{'Number': [1.5]}
+250,venlafaxine,"[{'StringWithMarkup': [{'String': '215-217 °C (Hydrochloride salt)'}]}, {'StringWithMarkup': [{'String': 'log Kow = 3.20'}]}]",{'StringWithMarkup': [{'String': '215-217 °C (Hydrochloride salt)'}]},{'StringWithMarkup': [{'String': 'log Kow = 3.20'}]}
+251,indapamide,"[{'StringWithMarkup': [{'String': '160-162'}]}, {'StringWithMarkup': [{'String': '2.2'}]}]",{'StringWithMarkup': [{'String': '160-162'}]},{'StringWithMarkup': [{'String': '2.2'}]}
+252,ranitidine,"[{'StringWithMarkup': [{'String': '69.5 °C'}]}, {'StringWithMarkup': [{'String': '0.27 (LogP)'}]}]",{'StringWithMarkup': [{'String': '69.5 °C'}]},{'StringWithMarkup': [{'String': '0.27 (LogP)'}]}
+253,hydroxychloroquine,"[nan, nan]",,
+254,lacosamide,"[nan, nan]",,
+255,loratadine,"[{'StringWithMarkup': [{'String': '134-136 °C'}]}, {'StringWithMarkup': [{'String': '5.2 (LogP)'}]}]",{'StringWithMarkup': [{'String': '134-136 °C'}]},{'StringWithMarkup': [{'String': '5.2 (LogP)'}]}
+256,clobazam,"[nan, nan]",,
+257,desloratadine,"[nan, nan]",,
+258,avanafil,"[nan, nan]",,
+259,cilostazol,"[{'Number': [160], 'Unit': '°C'}, {'Number': [2.3]}]","{'Number': [160], 'Unit': '°C'}",{'Number': [2.3]}
+260,dichlorphenamide,"[{'Number': [228.5]}, {'Number': [0.2]}]",{'Number': [228.5]},{'Number': [0.2]}
+261,roflumilast,"[nan, nan]",,
+262,efavirenz,"[{'StringWithMarkup': [{'String': '139-141 °C'}]}, {'Number': [4.6]}]",{'StringWithMarkup': [{'String': '139-141 °C'}]},{'Number': [4.6]}
+263,ivacaftor,"[{'StringWithMarkup': [{'String': '212-215'}]}, {'Number': [3.13]}]",{'StringWithMarkup': [{'String': '212-215'}]},{'Number': [3.13]}
+264,modafinil,"[nan, nan]",,
+265,methimazole,"[{'StringWithMarkup': [{'String': '143-146 °C'}]}, {'StringWithMarkup': [{'String': '-0.34 (LogP)'}]}]",{'StringWithMarkup': [{'String': '143-146 °C'}]},{'StringWithMarkup': [{'String': '-0.34 (LogP)'}]}
+266,erlotinib,"[nan, nan]",,
+267,canagliflozin,"[{'StringWithMarkup': [{'String': '68-72'}]}, {'Number': [3.44]}]",{'StringWithMarkup': [{'String': '68-72'}]},{'Number': [3.44]}
+268,metolazone,"[{'Number': [256], 'Unit': '°C'}, {'Number': [2.5]}]","{'Number': [256], 'Unit': '°C'}",{'Number': [2.5]}
+269,isocarboxazid,"[{'StringWithMarkup': [{'String': '105-106 °C'}]}, {'Number': [1.49]}]",{'StringWithMarkup': [{'String': '105-106 °C'}]},{'Number': [1.49]}
+270,pimavanserin,"[nan, nan]",,
+271,pioglitazone,"[{'StringWithMarkup': [{'String': '193-194C'}]}, {'StringWithMarkup': [{'String': 'log Kow = 3.96 (est)'}]}]",{'StringWithMarkup': [{'String': '193-194C'}]},{'StringWithMarkup': [{'String': 'log Kow = 3.96 (est)'}]}
+272,rosiglitazone,"[{'StringWithMarkup': [{'String': '122-123 °C'}]}, {'Number': [2.4]}]",{'StringWithMarkup': [{'String': '122-123 °C'}]},{'Number': [2.4]}
+273,levothyroxine,"[{'Number': [235.5], 'Unit': '°C'}, {'Number': [4]}]","{'Number': [235.5], 'Unit': '°C'}",{'Number': [4]}
+274,diclofenac,"[{'StringWithMarkup': [{'String': '283-285 °C'}]}, {'Number': [4.51]}]",{'StringWithMarkup': [{'String': '283-285 °C'}]},{'Number': [4.51]}
+275,lansoprazole,"[nan, nan]",,
+276,dapsone,"[{'StringWithMarkup': [{'String': '347 to 349 °F (NTP, 1992)'}]}, {'Number': [0.97]}]","{'StringWithMarkup': [{'String': '347 to 349 °F (NTP, 1992)'}]}",{'Number': [0.97]}
+277,riociguat,"[nan, nan]",,
+278,suvorexant,"[nan, nan]",,
+279,methocarbamol,"[{'Number': [92]}, {'Number': [0.61]}]",{'Number': [92]},{'Number': [0.61]}
+280,cyproheptadine,"[{'StringWithMarkup': [{'String': '112.3-113-3'}]}, {'Number': [4.69]}]",{'StringWithMarkup': [{'String': '112.3-113-3'}]},{'Number': [4.69]}
+281,bupropion,"[{'StringWithMarkup': [{'String': '233-234 °C'}]}, {'Number': [3.6]}]",{'StringWithMarkup': [{'String': '233-234 °C'}]},{'Number': [3.6]}
+282,tiopronin,"[nan, nan]",,
+283,docusate,"[{'StringWithMarkup': [{'String': '153-157'}]}, {'Number': [3.95]}]",{'StringWithMarkup': [{'String': '153-157'}]},{'Number': [3.95]}
+284,hyoscyamine,"[{'Number': [108.5], 'Unit': '°C'}, {'Number': [1.8]}]","{'Number': [108.5], 'Unit': '°C'}",{'Number': [1.8]}
+285,bisoprolol,"[{'StringWithMarkup': [{'String': '100-103'}]}, {'Number': [2.2]}]",{'StringWithMarkup': [{'String': '100-103'}]},{'Number': [2.2]}
+286,ribociclib,"[nan, nan]",,
+287,asenapine,"[nan, nan]",,
+288,imipramine,"[{'StringWithMarkup': [{'String': '174-175'}]}, {'Number': [4.8]}]",{'StringWithMarkup': [{'String': '174-175'}]},{'Number': [4.8]}
+289,meclizine,"[{'StringWithMarkup': [{'String': '217-224'}]}, {'StringWithMarkup': [{'String': '5.8'}]}]",{'StringWithMarkup': [{'String': '217-224'}]},{'StringWithMarkup': [{'String': '5.8'}]}
+290,minoxidil,"[{'Number': [248], 'Unit': '°C'}, {'Number': [1.24]}]","{'Number': [248], 'Unit': '°C'}",{'Number': [1.24]}
+291,guaifenesin,"[{'StringWithMarkup': [{'String': '78.5-79'}]}, {'Number': [1.39]}]",{'StringWithMarkup': [{'String': '78.5-79'}]},{'Number': [1.39]}
+292,deferiprone,"[{'StringWithMarkup': [{'String': '272-278'}]}, {'StringWithMarkup': [{'String': '-0.77 (LogP)'}]}]",{'StringWithMarkup': [{'String': '272-278'}]},{'StringWithMarkup': [{'String': '-0.77 (LogP)'}]}
+293,tafenoquine,"[nan, nan]",,
+294,cyclobenzaprine,"[{'Number': [217]}, {'Number': [5.2]}]",{'Number': [217]},{'Number': [5.2]}
+295,ramelteon,"[{'StringWithMarkup': [{'String': '113-115 °C'}]}, {'Number': [2.4]}]",{'StringWithMarkup': [{'String': '113-115 °C'}]},{'Number': [2.4]}
+296,pretomanid,"[nan, nan]",,
+297,tucatinib,"[{'Number': [230]}, {'Number': [3.62]}]",{'Number': [230]},{'Number': [3.62]}
+298,leucovorin,"[{'Number': [245], 'Unit': 'ºC'}, {'Number': [-3.2]}]","{'Number': [245], 'Unit': 'ºC'}",{'Number': [-3.2]}
+299,isoniazid,"[{'StringWithMarkup': [{'String': '340.5 °F (NTP, 1992)'}]}, {'Number': [-0.7]}]","{'StringWithMarkup': [{'String': '340.5 °F (NTP, 1992)'}]}",{'Number': [-0.7]}
+300,nabumetone,"[{'StringWithMarkup': [{'String': '78-82'}]}, {'Number': [2400]}]",{'StringWithMarkup': [{'String': '78-82'}]},{'Number': [2400]}
+301,cyclophosphamide,"[{'StringWithMarkup': [{'String': '106 to 113 °F (NTP, 1992)'}]}, {'Number': [0.8]}]","{'StringWithMarkup': [{'String': '106 to 113 °F (NTP, 1992)'}]}",{'Number': [0.8]}
+302,desipramine,"[{'StringWithMarkup': [{'String': '214-218 °C'}]}, {'Number': [4.9]}]",{'StringWithMarkup': [{'String': '214-218 °C'}]},{'Number': [4.9]}
+303,ubrogepant,"[nan, nan]",,
+304,olanzapine,"[{'StringWithMarkup': [{'String': '189-195 °C'}]}, {'Number': [4.094]}]",{'StringWithMarkup': [{'String': '189-195 °C'}]},{'Number': [4.094]}
+305,oxybutynin,"[{'StringWithMarkup': [{'String': '122-124'}]}, {'Number': [4.3]}]",{'StringWithMarkup': [{'String': '122-124'}]},{'Number': [4.3]}
+306,zileuton,"[{'StringWithMarkup': [{'String': '144.2-145.2 °C'}]}, {'Number': [0.9]}]",{'StringWithMarkup': [{'String': '144.2-145.2 °C'}]},{'Number': [0.9]}
+307,labetalol,"[{'Number': [188], 'Unit': '°C'}, {'StringWithMarkup': [{'String': '3.09 (LogP)'}]}]","{'Number': [188], 'Unit': '°C'}",{'StringWithMarkup': [{'String': '3.09 (LogP)'}]}
+308,zolpidem,"[nan, nan]",,
+309,aminocaproic,"[{'Number': [205], 'Unit': '°C'}, {'Number': [-2.95]}]","{'Number': [205], 'Unit': '°C'}",{'Number': [-2.95]}
+310,sitagliptin,"[nan, nan]",,
+311,risperidone,"[{'Number': [170]}, {'StringWithMarkup': [{'String': 'log Kow = 3.49 (est)'}]}]",{'Number': [170]},{'StringWithMarkup': [{'String': 'log Kow = 3.49 (est)'}]}
+312,rufinamide,"[nan, nan]",,
+313,risedronate,"[{'StringWithMarkup': [{'String': '252-262'}]}, {'StringWithMarkup': [{'String': 'log Kow = -0.29 /Estimated/'}]}]",{'StringWithMarkup': [{'String': '252-262'}]},{'StringWithMarkup': [{'String': 'log Kow = -0.29 /Estimated/'}]}
+314,omeprazole,"[{'Number': [155], 'Unit': '°C'}, {'Number': [2.23]}]","{'Number': [155], 'Unit': '°C'}",{'Number': [2.23]}
+315,praziquantel,"[{'Number': [136], 'Unit': '°C'}, {'Number': [2.5]}]","{'Number': [136], 'Unit': '°C'}",{'Number': [2.5]}
+316,amiloride,"[{'StringWithMarkup': [{'String': '240.5-241.5'}]}, {'Number': [-0.3]}]",{'StringWithMarkup': [{'String': '240.5-241.5'}]},{'Number': [-0.3]}
+317,pirfenidone,"[{'StringWithMarkup': [{'String': '102-104 °C; also as MP 103-105 °C from benzene-light petroleum', 'Markup': [{'Start': 39, 'Length': 7, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/benzene', 'Type': 'PubChem Internal Link', 'Extra': 'CID-241'}]}]}, {'StringWithMarkup': [{'String': 'log Kow = 1.91 (est)'}]}]","{'StringWithMarkup': [{'String': '102-104 °C; also as MP 103-105 °C from benzene-light petroleum', 'Markup': [{'Start': 39, 'Length': 7, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/benzene', 'Type': 'PubChem Internal Link', 'Extra': 'CID-241'}]}]}",{'StringWithMarkup': [{'String': 'log Kow = 1.91 (est)'}]}
+318,tapentadol,"[nan, nan]",,
+319,esomeprazole,"[{'Number': [155], 'Unit': '°C'}, {'Number': [0.6]}]","{'Number': [155], 'Unit': '°C'}",{'Number': [0.6]}
+320,voxelotor,"[{'StringWithMarkup': [{'String': '80-82'}]}, {'Number': [2.85]}]",{'StringWithMarkup': [{'String': '80-82'}]},{'Number': [2.85]}
+321,bosentan,"[nan, nan]",,
+322,ibrutinib,"[{'StringWithMarkup': [{'String': '149-158ºC'}]}, {'Number': [3.97]}]",{'StringWithMarkup': [{'String': '149-158ºC'}]},{'Number': [3.97]}
+323,ramipril,"[{'Number': [109], 'Unit': '°C'}, {'Number': [2.9]}]","{'Number': [109], 'Unit': '°C'}",{'Number': [2.9]}
+324,metaxalone,"[{'Number': [122], 'Unit': '°C'}, {'Number': [2.3]}]","{'Number': [122], 'Unit': '°C'}",{'Number': [2.3]}
+325,brexpiprazole,"[nan, nan]",,
+326,avatrombopag,"[nan, nan]",,
+327,losartan,"[{'StringWithMarkup': [{'String': '178-184'}]}, {'Number': [1.19]}]",{'StringWithMarkup': [{'String': '178-184'}]},{'Number': [1.19]}
+328,perphenazine,"[{'Number': [97], 'Unit': '°C'}, {'Number': [4.2]}]","{'Number': [97], 'Unit': '°C'}",{'Number': [4.2]}
+329,fluvastatin,"[{'StringWithMarkup': [{'String': 'MW: 433.46. White to pale yellow powder. Hygroscopic. MP: 194-197 °C. Soluble in water, ethanol, methanol /Fluvastatin sodium salt/', 'Markup': [{'Start': 81, 'Length': 5, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/water', 'Type': 'PubChem Internal Link', 'Extra': 'CID-962'}, {'Start': 88, 'Length': 7, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/ethanol', 'Type': 'PubChem Internal Link', 'Extra': 'CID-702'}, {'Start': 97, 'Length': 8, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/methanol', 'Type': 'PubChem Internal Link', 'Extra': 'CID-887'}, {'Start': 107, 'Length': 23, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/Fluvastatin%20sodium%20salt', 'Type': 'PubChem Internal Link', 'Extra': 'CID-24906289'}]}]}, {'StringWithMarkup': [{'String': 'log Kow = 4.85 (est)'}]}]","{'StringWithMarkup': [{'String': 'MW: 433.46. White to pale yellow powder. Hygroscopic. MP: 194-197 °C. Soluble in water, ethanol, methanol /Fluvastatin sodium salt/', 'Markup': [{'Start': 81, 'Length': 5, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/water', 'Type': 'PubChem Internal Link', 'Extra': 'CID-962'}, {'Start': 88, 'Length': 7, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/ethanol', 'Type': 'PubChem Internal Link', 'Extra': 'CID-702'}, {'Start': 97, 'Length': 8, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/methanol', 'Type': 'PubChem Internal Link', 'Extra': 'CID-887'}, {'Start': 107, 'Length': 23, 'URL': 'https://pubchem.ncbi.nlm.nih.gov/compound/Fluvastatin%20sodium%20salt', 'Type': 'PubChem Internal Link', 'Extra': 'CID-24906289'}]}]}",{'StringWithMarkup': [{'String': 'log Kow = 4.85 (est)'}]}
+330,azacitidine,"[{'StringWithMarkup': [{'String': '442 to 446 °F (decomposes) (NTP, 1992)'}]}, {'Number': [-3.5]}]","{'StringWithMarkup': [{'String': '442 to 446 °F (decomposes) (NTP, 1992)'}]}",{'Number': [-3.5]}
+331,phenylbutyrate,"[{'StringWithMarkup': [{'String': '>150'}]}, {'StringWithMarkup': [{'String': '2.42 (LogP)'}]}]",{'StringWithMarkup': [{'String': '>150'}]},{'StringWithMarkup': [{'String': '2.42 (LogP)'}]}
+332,linezolid,"[{'StringWithMarkup': [{'String': '181.5-182.5 °C'}]}, {'Number': [0.9]}]",{'StringWithMarkup': [{'String': '181.5-182.5 °C'}]},{'Number': [0.9]}
+333,carbinoxamine,"[{'StringWithMarkup': [{'String': '< 25 °C'}]}, {'Number': [2.6]}]",{'StringWithMarkup': [{'String': '< 25 °C'}]},{'Number': [2.6]}
+334,levodopa,"[{'Number': [295]}, {'Number': [0.05]}]",{'Number': [295]},{'Number': [0.05]}
+335,guanfacine,"[{'StringWithMarkup': [{'String': '213-216'}]}, {'Number': [0.857]}]",{'StringWithMarkup': [{'String': '213-216'}]},{'Number': [0.857]}
+336,loperamide,"[{'Number': [222.1]}, {'Number': [5.5]}]",{'Number': [222.1]},{'Number': [5.5]}
+337,benztropine,"[{'StringWithMarkup': [{'String': '135ºC'}]}, {'Number': [4.27]}]",{'StringWithMarkup': [{'String': '135ºC'}]},{'Number': [4.27]}
+338,prasugrel,"[nan, nan]",,
+339,amphetamine,"[nan, nan]",,
+340,doxylamine,"[{'StringWithMarkup': [{'String': '< 25 °C'}]}, {'Number': [2.5]}]",{'StringWithMarkup': [{'String': '< 25 °C'}]},{'Number': [2.5]}
+341,glasdegib,"[{'StringWithMarkup': [{'String': '> 214 ºC'}]}, {'Number': [2.28]}]",{'StringWithMarkup': [{'String': '> 214 ºC'}]},{'Number': [2.28]}
+342,lemborexant,"[nan, nan]",,
+343,phenelzine,"[{'StringWithMarkup': [{'String': '157-161ºC'}]}, {'StringWithMarkup': [{'String': 'log Kow = 0.97 (est)'}]}]",{'StringWithMarkup': [{'String': '157-161ºC'}]},{'StringWithMarkup': [{'String': 'log Kow = 0.97 (est)'}]}
+344,pyridoxine,"[{'StringWithMarkup': [{'String': '159-162 °C'}]}, {'Number': [-0.77]}]",{'StringWithMarkup': [{'String': '159-162 °C'}]},{'Number': [-0.77]}
+345,glimepiride,"[{'Number': [207]}, {'StringWithMarkup': [{'String': '3.5'}]}]",{'Number': [207]},{'StringWithMarkup': [{'String': '3.5'}]}
+346,ripretinib,"[nan, nan]",,
+347,lamotrigine,"[{'StringWithMarkup': [{'String': '177-181'}]}, {'Number': [1.93]}]",{'StringWithMarkup': [{'String': '177-181'}]},{'Number': [1.93]}
+348,azathioprine,"[{'StringWithMarkup': [{'String': '469 to 471 °F (decomposes) (NTP, 1992)'}]}, {'Number': [0.1]}]","{'StringWithMarkup': [{'String': '469 to 471 °F (decomposes) (NTP, 1992)'}]}",{'Number': [0.1]}
+349,miglitol,"[{'Number': [114], 'Unit': '°C'}, {'Number': [-2.7]}]","{'Number': [114], 'Unit': '°C'}",{'Number': [-2.7]}
+350,tenofovir,"[{'Number': [279], 'Unit': 'ºC'}, {'Number': [-1.6]}]","{'Number': [279], 'Unit': 'ºC'}",{'Number': [-1.6]}
+351,baloxavir,"[nan, nan]",,
+352,raloxifene,"[{'StringWithMarkup': [{'String': '268-272'}]}, {'Number': [5.2]}]",{'StringWithMarkup': [{'String': '268-272'}]},{'Number': [5.2]}
+353,vigabatrin,"[nan, nan]",,
+354,ceritinib,"[nan, nan]",,
+355,vortioxetine,"[nan, nan]",,
+356,pitolisant,"[nan, nan]",,
+357,ibuprofen,"[{'StringWithMarkup': [{'String': '75-77.5 ºC'}]}, {'Number': [3.97]}]",{'StringWithMarkup': [{'String': '75-77.5 ºC'}]},{'Number': [3.97]}
+358,cladribine,"[{'Number': [215], 'Unit': '°C'}, {'Number': [-0.1]}]","{'Number': [215], 'Unit': '°C'}",{'Number': [-0.1]}
+359,hydroxyzine,"[nan, nan]",,
+360,quetiapine,"[{'StringWithMarkup': [{'String': '174-176'}]}, {'Number': [2.81]}]",{'StringWithMarkup': [{'String': '174-176'}]},{'Number': [2.81]}
+361,terbinafine,"[{'Number': [205]}, {'StringWithMarkup': [{'String': '6.0 (LogP)'}]}]",{'Number': [205]},{'StringWithMarkup': [{'String': '6.0 (LogP)'}]}
+362,clozapine,"[{'StringWithMarkup': [{'String': '183-184 °C'}]}, {'Number': [3.23]}]",{'StringWithMarkup': [{'String': '183-184 °C'}]},{'Number': [3.23]}
+363,emtricitabine,"[{'StringWithMarkup': [{'String': '136-138'}]}, {'Number': [-0.43]}]",{'StringWithMarkup': [{'String': '136-138'}]},{'Number': [-0.43]}
+364,alendronate,"[{'Number': [235]}, {'StringWithMarkup': [{'String': 'log Kow = -0.50 (est)'}]}]",{'Number': [235]},{'StringWithMarkup': [{'String': 'log Kow = -0.50 (est)'}]}
+365,lisinopril,"[{'Number': [148]}, {'Number': [-1.01]}]",{'Number': [148]},{'Number': [-1.01]}
+366,prochlorperazine,"[{'Number': [228], 'Unit': '°C'}, {'Number': [4.88]}]","{'Number': [228], 'Unit': '°C'}",{'Number': [4.88]}
+367,telotristat,"[nan, nan]",,
+368,nadolol,"[{'StringWithMarkup': [{'String': '124-130'}]}, {'Number': [0.81]}]",{'StringWithMarkup': [{'String': '124-130'}]},{'Number': [0.81]}
+369,paroxetine,"[{'StringWithMarkup': [{'String': '120-138'}]}, {'Number': [2.53]}]",{'StringWithMarkup': [{'String': '120-138'}]},{'Number': [2.53]}
+370,methadone,"[nan, nan]",,
+371,methylphenidate,"[nan, nan]",,
+372,binimetinib,"[nan, nan]",,
+373,pentoxifylline,"[{'Number': [105], 'Unit': '°C'}, {'Number': [0.29]}]","{'Number': [105], 'Unit': '°C'}",{'Number': [0.29]}
+374,bisacodyl,"[{'Number': [138]}, {'StringWithMarkup': [{'String': 'log Kow = 3.37 /Estimated/'}]}]",{'Number': [138]},{'StringWithMarkup': [{'String': 'log Kow = 3.37 /Estimated/'}]}
+375,doxepin,"[{'StringWithMarkup': [{'String': 'Crystals, melting point 184 to 186 °C, 188 to 189 °C (a cis-trans mixture of approx 1:5) /HYDROCHLORIDE/'}]}, {'StringWithMarkup': [{'String': '4.29 (LogP)'}]}]","{'StringWithMarkup': [{'String': 'Crystals, melting point 184 to 186 °C, 188 to 189 °C (a cis-trans mixture of approx 1:5) /HYDROCHLORIDE/'}]}",{'StringWithMarkup': [{'String': '4.29 (LogP)'}]}
+376,ibandronate,"[{'StringWithMarkup': [{'String': '113-115'}]}, {'StringWithMarkup': [{'String': '-2.1'}]}]",{'StringWithMarkup': [{'String': '113-115'}]},{'StringWithMarkup': [{'String': '-2.1'}]}
+377,lamivudine,"[{'StringWithMarkup': [{'String': '160-162 °C'}]}, {'Number': [-1.4]}]",{'StringWithMarkup': [{'String': '160-162 °C'}]},{'Number': [-1.4]}
+378,alosetron,"[nan, nan]",,
+379,diltiazem,"[{'StringWithMarkup': [{'String': '187-188'}]}, {'Number': [2.8]}]",{'StringWithMarkup': [{'String': '187-188'}]},{'Number': [2.8]}
+380,pilocarpine,"[{'StringWithMarkup': [{'String': '204-205 °C'}]}, {'Number': [1.1]}]",{'StringWithMarkup': [{'String': '204-205 °C'}]},{'Number': [1.1]}
+381,naratriptan,"[{'Number': [246], 'Unit': '°C (HCl salt)'}, {'Number': [1.6]}]","{'Number': [246], 'Unit': '°C (HCl salt)'}",{'Number': [1.6]}
+382,paliperidone,"[{'StringWithMarkup': [{'String': '179.8 °C'}]}, {'Number': [1.8]}]",{'StringWithMarkup': [{'String': '179.8 °C'}]},{'Number': [1.8]}
+383,tranexamic,"[nan, nan]",,
+384,midodrine,"[{'Number': [200], 'Unit': 'to 203°C'}, {'Number': [-0.5]}]","{'Number': [200], 'Unit': 'to 203°C'}",{'Number': [-0.5]}
+385,metformin,"[{'StringWithMarkup': [{'String': '223-226 °C'}]}, {'Number': [-2.6]}]",{'StringWithMarkup': [{'String': '223-226 °C'}]},{'Number': [-2.6]}
+386,carbidopa,"[{'StringWithMarkup': [{'String': '203-208 °C'}]}, {'Number': [-1.9]}]",{'StringWithMarkup': [{'String': '203-208 °C'}]},{'Number': [-1.9]}
+387,levocarnitine,"[{'StringWithMarkup': [{'String': '195-198'}]}, {'StringWithMarkup': [{'String': 'log Kow = -5.48 (est)'}]}]",{'StringWithMarkup': [{'String': '195-198'}]},{'StringWithMarkup': [{'String': 'log Kow = -5.48 (est)'}]}
+388,lapatinib,"[nan, nan]",,
+389,candesartan,"[{'StringWithMarkup': [{'String': '183-185 °C'}]}, {'StringWithMarkup': [{'String': 'log Kow = 4.79 (est)'}]}]",{'StringWithMarkup': [{'String': '183-185 °C'}]},{'StringWithMarkup': [{'String': 'log Kow = 4.79 (est)'}]}
+390,gemfibrozil,"[{'StringWithMarkup': [{'String': '58-61'}]}, {'Number': [4.387]}]",{'StringWithMarkup': [{'String': '58-61'}]},{'Number': [4.387]}
+391,divalproex,"[nan, nan]",,
+392,furosemide,"[{'StringWithMarkup': [{'String': '403 °F (decomposes) (NTP, 1992)'}]}, {'Number': [2.03]}]","{'StringWithMarkup': [{'String': '403 °F (decomposes) (NTP, 1992)'}]}",{'Number': [2.03]}
+393,sufentanil,"[nan, nan]",,
+394,cenobamate,"[nan, nan]",,
+395,olaparib,"[nan, nan]",,
+396,oxaprozin,"[{'StringWithMarkup': [{'String': '158-159 °C'}]}, {'Number': [4.19]}]",{'StringWithMarkup': [{'String': '158-159 °C'}]},{'Number': [4.19]}
+397,nifurtimox,"[{'StringWithMarkup': [{'String': '177-183'}]}, {'Number': [-0.27]}]",{'StringWithMarkup': [{'String': '177-183'}]},{'Number': [-0.27]}
+398,darolutamide,"[nan, nan]",,
+399,thioguanine,"[{'StringWithMarkup': [{'String': 'greater than 680 °F (NTP, 1992)'}]}, {'Number': [-0.07]}]","{'StringWithMarkup': [{'String': 'greater than 680 °F (NTP, 1992)'}]}",{'Number': [-0.07]}
+400,buspirone,"[{'StringWithMarkup': [{'String': '201.5-202.5'}]}, {'Number': [2.63]}]",{'StringWithMarkup': [{'String': '201.5-202.5'}]},{'Number': [2.63]}
+401,toremifene,"[{'StringWithMarkup': [{'String': '108-110 °C'}]}, {'Number': [6.8]}]",{'StringWithMarkup': [{'String': '108-110 °C'}]},{'Number': [6.8]}
+402,pyridostigmine,"[{'Number': [153], 'Unit': '°C'}, {'Number': [1.554]}]","{'Number': [153], 'Unit': '°C'}",{'Number': [1.554]}
+403,diazepam,"[nan, nan]",,
+404,ponatinib,"[nan, nan]",,
+405,promethazine,"[{'StringWithMarkup': [{'String': '140 °F (NTP, 1992)'}]}, {'Number': [4.81]}]","{'StringWithMarkup': [{'String': '140 °F (NTP, 1992)'}]}",{'Number': [4.81]}
+406,rasagiline,"[nan, nan]",,
+407,idelalisib,"[nan, nan]",,
+408,melphalan,"[{'StringWithMarkup': [{'String': '351 °F (decomposes) (NTP, 1992)'}]}, {'Number': [-0.52]}]","{'StringWithMarkup': [{'String': '351 °F (decomposes) (NTP, 1992)'}]}",{'Number': [-0.52]}
+409,nilutamide,"[nan, nan]",,
+410,fosamprenavir,"[nan, nan]",,
+411,warfarin,"[{'StringWithMarkup': [{'String': '322 °F (EPA, 1998)'}]}, {'Number': [2.7]}]","{'StringWithMarkup': [{'String': '322 °F (EPA, 1998)'}]}",{'Number': [2.7]}
+412,clonazepam,"[nan, nan]",,
+413,mesalamine,"[{'StringWithMarkup': [{'String': '536 °F (decomposes) (NTP, 1992)'}]}, {'Number': [1.2]}]","{'StringWithMarkup': [{'String': '536 °F (decomposes) (NTP, 1992)'}]}",{'Number': [1.2]}
+414,abacavir,"[{'Number': [165], 'Unit': '°C'}, {'Number': [1.2]}]","{'Number': [165], 'Unit': '°C'}",{'Number': [1.2]}
+415,zafirlukast,"[{'Number': [139], 'Unit': '°C'}, {'Number': [5.4]}]","{'Number': [139], 'Unit': '°C'}",{'Number': [5.4]}
+416,dalfampridine,"[{'StringWithMarkup': [{'String': '318 °F (EPA, 1998)'}]}, {'StringWithMarkup': [{'String': '0.32 (LogP)'}]}]","{'StringWithMarkup': [{'String': '318 °F (EPA, 1998)'}]}",{'StringWithMarkup': [{'String': '0.32 (LogP)'}]}
+417,glipizide,"[{'StringWithMarkup': [{'String': '200-203'}]}, {'Number': [1.91]}]",{'StringWithMarkup': [{'String': '200-203'}]},{'Number': [1.91]}
+418,maraviroc,"[{'StringWithMarkup': [{'String': '197-198 °C'}]}, {'StringWithMarkup': [{'String': 'log Kow = 5.80 (est)'}]}]",{'StringWithMarkup': [{'String': '197-198 °C'}]},{'StringWithMarkup': [{'String': 'log Kow = 5.80 (est)'}]}
+419,trametinib,"[nan, nan]",,
+420,eslicarbazepine,"[nan, nan]",,
+421,vardenafil,"[{'Number': [192], 'Unit': '°C'}, {'Number': [1.4]}]","{'Number': [192], 'Unit': '°C'}",{'Number': [1.4]}
+422,ranolazine,"[{'StringWithMarkup': [{'String': '120-124'}]}, {'Number': [2.07]}]",{'StringWithMarkup': [{'String': '120-124'}]},{'Number': [2.07]}
+423,lisdexamfetamine,"[nan, nan]",,
+424,triamterene,"[{'StringWithMarkup': [{'String': '601 °F (NTP, 1992)'}]}, {'Number': [0.98]}]","{'StringWithMarkup': [{'String': '601 °F (NTP, 1992)'}]}",{'Number': [0.98]}
+425,estazolam,"[nan, nan]",,
+426,mitotane,"[{'StringWithMarkup': [{'String': '171 to 172 °F (NTP, 1992)'}]}, {'Number': [6]}]","{'StringWithMarkup': [{'String': '171 to 172 °F (NTP, 1992)'}]}",{'Number': [6]}
+427,aripiprazole,"[{'StringWithMarkup': [{'String': '137-140'}]}, {'StringWithMarkup': [{'String': 'log Kow = 5.30 (est)'}]}]",{'StringWithMarkup': [{'String': '137-140'}]},{'StringWithMarkup': [{'String': 'log Kow = 5.30 (est)'}]}
+428,albuterol,"[{'StringWithMarkup': [{'String': '147-149'}]}, {'Number': [1.4]}]",{'StringWithMarkup': [{'String': '147-149'}]},{'Number': [1.4]}
+429,phenylephrine,"[{'StringWithMarkup': [{'String': '284 to 293 °F (NTP, 1992)'}]}, {'Number': [-0.31]}]","{'StringWithMarkup': [{'String': '284 to 293 °F (NTP, 1992)'}]}",{'Number': [-0.31]}
+430,selexipag,"[nan, nan]",,
+431,lusutrombopag,"[nan, nan]",,
+432,hydroxyurea,"[{'StringWithMarkup': [{'String': '291 to 295 °F (decomposes) (NTP, 1992)'}]}, {'Number': [-1.8]}]","{'StringWithMarkup': [{'String': '291 to 295 °F (decomposes) (NTP, 1992)'}]}",{'Number': [-1.8]}
+433,ezetimibe,"[{'StringWithMarkup': [{'String': '163°C'}]}, {'StringWithMarkup': [{'String': 'log Kow = 3.94 (est)'}]}]",{'StringWithMarkup': [{'String': '163°C'}]},{'StringWithMarkup': [{'String': 'log Kow = 3.94 (est)'}]}
+434,fostemsavir,"[nan, nan]",,
+435,nevirapine,"[{'Number': [196.06]}, {'Number': [2.5]}]",{'Number': [196.06]},{'Number': [2.5]}
+436,flecainide,"[{'StringWithMarkup': [{'String': '228-229'}]}, {'Number': [3.78]}]",{'StringWithMarkup': [{'String': '228-229'}]},{'Number': [3.78]}
+437,atorvastatin,"[{'Number': [176], 'Unit': '°C'}, {'Number': [6.36]}]","{'Number': [176], 'Unit': '°C'}",{'Number': [6.36]}
+438,delafloxacin,"[nan, nan]",,
+439,istradefylline,"[nan, nan]",,
+440,fexofenadine,"[{'Number': [142.5], 'Unit': '°C'}, {'StringWithMarkup': [{'String': 'log Kow = 2.81 (est)'}]}]","{'Number': [142.5], 'Unit': '°C'}",{'StringWithMarkup': [{'String': 'log Kow = 2.81 (est)'}]}
+441,pantoprazole,"[{'StringWithMarkup': [{'String': '149-150'}]}, {'Number': [2.05]}]",{'StringWithMarkup': [{'String': '149-150'}]},{'Number': [2.05]}
+442,pazopanib,"[nan, nan]",,
+443,torsemide,"[{'StringWithMarkup': [{'String': '163-164 °C'}]}, {'Number': [3.356]}]",{'StringWithMarkup': [{'String': '163-164 °C'}]},{'Number': [3.356]}
+444,imatinib,"[{'Number': [226], 'Unit': '°C (mesylate salt)'}, {'Number': [3]}]","{'Number': [226], 'Unit': '°C (mesylate salt)'}",{'Number': [3]}
+445,neratinib,"[nan, nan]",,
+446,acetohydroxamic,"[nan, nan]",,
+447,tetrabenazine,"[{'Number': [126], 'Unit': '°C'}, {'StringWithMarkup': [{'String': 'log Kow = 2.66 (est)'}]}]","{'Number': [126], 'Unit': '°C'}",{'StringWithMarkup': [{'String': 'log Kow = 2.66 (est)'}]}
+448,famciclovir,"[{'StringWithMarkup': [{'String': '102-104 °C'}]}, {'Number': [0.6]}]",{'StringWithMarkup': [{'String': '102-104 °C'}]},{'Number': [0.6]}
+449,regorafenib,"[nan, nan]",,
+450,orphenadrine,"[{'StringWithMarkup': [{'String': '< 25 °C'}]}, {'Number': [3.77]}]",{'StringWithMarkup': [{'String': '< 25 °C'}]},{'Number': [3.77]}
+451,haloperidol,"[{'Number': [148]}, {'Number': [4.3]}]",{'Number': [148]},{'Number': [4.3]}
+452,etodolac,"[{'Number': [146.5], 'Unit': '°C'}, {'Number': [2.5]}]","{'Number': [146.5], 'Unit': '°C'}",{'Number': [2.5]}
+453,irbesartan,"[{'StringWithMarkup': [{'String': '180-181 °C'}]}, {'Number': [4.5]}]",{'StringWithMarkup': [{'String': '180-181 °C'}]},{'Number': [4.5]}
+454,naproxen,"[{'StringWithMarkup': [{'String': '152°C'}]}, {'Number': [3.18]}]",{'StringWithMarkup': [{'String': '152°C'}]},{'Number': [3.18]}
+455,cetirizine,"[{'StringWithMarkup': [{'String': '110-115°C'}]}, {'Number': [2.8]}]",{'StringWithMarkup': [{'String': '110-115°C'}]},{'Number': [2.8]}
+456,ivabradine,"[nan, nan]",,
+457,enasidenib,"[nan, nan]",,
+458,chlorambucil,"[{'StringWithMarkup': [{'String': '147 to 151 °F (NTP, 1992)'}]}, {'Number': [1.7]}]","{'StringWithMarkup': [{'String': '147 to 151 °F (NTP, 1992)'}]}",{'Number': [1.7]}
+459,eszopiclone,"[nan, nan]",,
+460,dacomitinib,"[{'StringWithMarkup': [{'String': '184-187 ºC'}]}, {'Number': [3.92]}]",{'StringWithMarkup': [{'String': '184-187 ºC'}]},{'Number': [3.92]}
+461,frovatriptan,"[nan, nan]",,
+462,hydralazine,"[{'StringWithMarkup': [{'String': '172-173 °C'}]}, {'Number': [1]}]",{'StringWithMarkup': [{'String': '172-173 °C'}]},{'Number': [1]}
+463,lasmiditan,"[nan, nan]",,
+464,gabapentin,"[{'StringWithMarkup': [{'String': '162-166 °C; also reported as 165-167 °C'}]}, {'Number': [1.25]}]",{'StringWithMarkup': [{'String': '162-166 °C; also reported as 165-167 °C'}]},{'Number': [1.25]}
+465,ethionamide,"[{'StringWithMarkup': [{'String': '327 to 331 °F (Decomposes) (NTP, 1992)'}]}, {'Number': [0.5]}]","{'StringWithMarkup': [{'String': '327 to 331 °F (Decomposes) (NTP, 1992)'}]}",{'Number': [0.5]}
+466,cimetidine,"[{'StringWithMarkup': [{'String': '284 to 290 °F (NTP, 1992)'}]}, {'Number': [0.4]}]","{'StringWithMarkup': [{'String': '284 to 290 °F (NTP, 1992)'}]}",{'Number': [0.4]}
+467,gilteritinib,"[nan, nan]",,
