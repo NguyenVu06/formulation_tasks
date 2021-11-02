@@ -11,21 +11,21 @@ class FDA_query(object):
     """
     Class to query the FDA API
     """
-    def __init__(self, DB_Name):
+    def __init__(self, DB_Name, API_key):
         """
         DB names are either Label or NDC for labeling information or NDC for NDC information
-        
+
         """
         self.DB_Name = DB_Name.upper()
-        self.APIkey = r"api_key=ieSIcZGsM6K0XVG6kL7UiQb4Yw3cDN1z2bwO4XPl"
+        self.APIkey = r"api_key="+str(API_key)
         
         if self.DB_Name == "LABEL":
             self.url_root = r"https://api.fda.gov/drug/label.json?"
         elif self.DB_Name == "NDC":
             self.url_root = r"https://api.fda.gov/drug/ndc.json?"
 
-    def set_API_Key(self, API_key):
-        self.APIkey = API_key
+    def set_API_Key(self, new_API_key):
+        self.APIkey = new_API_key
     
     ###############################################
     # Define qurey parameters from the API
